@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmvescavor",
+  "Registry ID": "dungeonmobs:dmvescavor",
+  "Class": "com.gw.dm.entity.EntityVescavor"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmbladetrap",
+  "Registry ID": "dungeonmobs:dmbladetrap",
+  "Class": "com.gw.dm.entity.EntityBladeTrap"
+}
